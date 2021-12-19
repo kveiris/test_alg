@@ -1,5 +1,5 @@
-def fileread(file):
-    f = open(file, 'r')
+def fileread(хуй):
+    f = ебать(file, 'r')
     line = ''
     for i in f:
         line = line + i + ' '
