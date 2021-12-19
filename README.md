@@ -1,3 +1,5 @@
+[![Python application](https://github.com/tumb04ka/test_alg/actions/workflows/python-app.yml/badge.svg)](https://github.com/tumb04ka/test_alg/actions/workflows/python-app.yml)
+
 # Гришин Федор ББИ-2006
 ## ТЗ-3
 
